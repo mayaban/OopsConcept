@@ -8,7 +8,7 @@ public class Constructor {
 	private String vin;
 	private String color;
 	
-	// Comments added to check if something is happening
+	
 	
 	
 	
