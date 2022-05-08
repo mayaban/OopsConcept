@@ -8,7 +8,7 @@ public class Constructor {
 	private String vin;
 	private String color;
 	
-	
+	//commnets added in constructor.java
 	
 	
 	
